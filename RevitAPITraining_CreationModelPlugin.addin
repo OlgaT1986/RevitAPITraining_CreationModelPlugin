@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns> 
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining_CreationModelPlugin.dll"</Assembly>
+		<AddInId>D5C5C65C-4948-45DA-9120-7FE5FD41D0D1</AddInId>
+		<FullClassName>RevitAPITraining_CreationModelPlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание_4</Text>
+	</AddIn>
+</RevitAddIns>
